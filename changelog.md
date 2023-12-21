@@ -3,18 +3,25 @@
 ## [1.2.0] - UNRELEASED
 
 ### Breaking Changes
-* None.
+
+* Converted to Kotlin.
+* Removed `S3.Dependencies` and `S3Dependencies` in favour of direct constructor injection of the S3 client.
 
 ### New Features
+
 * None.
 
 ### Enhancements
-* None.
+
+* Update `aws-java-sdk-s3` to `1.12.599`, resolving transient vulnerability
+  [CVE-2022-31159](https://nvd.nist.gov/vuln/detail/CVE-2022-31159).
 
 ### Fixes
+
 * None.
 
 ### Notes
+
 * None.
 
 ## [1.1.0]
