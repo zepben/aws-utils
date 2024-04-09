@@ -6,6 +6,7 @@
 
 * Converted to Kotlin.
 * Removed `S3.Dependencies` and `S3Dependencies` in favour of direct constructor injection of the S3 client.
+* Updated to latest super pom (0.36.0)
 
 ### New Features
 
