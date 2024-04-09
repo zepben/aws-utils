@@ -1,6 +1,6 @@
 # AWS Utils changelog
 
-## [1.2.0] - UNRELEASED
+## [1.2.0] - 2024-04-09
 
 ### Breaking Changes
 
