@@ -1,4 +1,20 @@
 # AWS Utils changelog
+## [1.3.0] - UNRELEASED
+### Breaking Changes
+* None.
+
+### New Features
+* None.
+
+### Enhancements
+* None.
+
+### Fixes
+* None.
+
+### Notes
+* None.
+
 
 ## [1.2.0] - 2024-04-09
 
